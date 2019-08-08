@@ -3,7 +3,7 @@
     <section class="section">
       <div class="section">
         
-         App 
+         App xxxx
          <RouterView/>
       </div>
     </section>
