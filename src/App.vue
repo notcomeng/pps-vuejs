@@ -3,7 +3,7 @@
     <section class="section">
       <div class="section">
         
-         App xxxx
+         App 00
          <RouterView/>
       </div>
     </section>
@@ -13,6 +13,7 @@
 
 <script>
 import 'bulma/css/bulma.min.css'
+import 'animate.css/animate.min.css'
 export default {
   
 }
